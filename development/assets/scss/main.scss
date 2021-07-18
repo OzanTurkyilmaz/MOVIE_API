@@ -1,0 +1,17 @@
+@import './mixin/font-size';
+@import './mixin/z-index';
+@import './mixin/media-query';
+
+@import './globals/variables';
+
+
+@import './header';
+@import './cards';
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: black;
+}
+
+
